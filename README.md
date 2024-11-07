@@ -1,4 +1,4 @@
-# Firebase JavaScript SDK
+# Firebase JavaScript SDK 
 
 <!-- BADGES -->
 ![Build Status](https://img.shields.io/github/actions/workflow/status/firebase/firebase-js-sdk/test-all.yml)
